@@ -28,10 +28,10 @@ AUTHZ
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -89,10 +89,10 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -150,10 +150,10 @@ GROUPS
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -211,10 +211,10 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -272,10 +272,10 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -333,10 +333,10 @@ MFA
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -394,10 +394,10 @@ USER
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -455,10 +455,10 @@ LOGIN
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -516,10 +516,10 @@ LOGIN MFA
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -577,10 +577,10 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -638,10 +638,10 @@ REGISTRATION
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -699,10 +699,10 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {
@@ -760,10 +760,10 @@ No authorization required
 ### Example
 ```java
 // Import classes:
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.models.*;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.models.*;
 import org.openapitools.client.api.IamBackofficeApi;
 
 public class Example {

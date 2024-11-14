@@ -42,7 +42,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/AssignUserToGroup:
     post:
       operationId: IamBackoffice_AssignUserToGroup
@@ -69,7 +70,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/CreateGroup:
     post:
       operationId: IamBackoffice_CreateGroup
@@ -97,7 +99,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/DisableUserMfa:
     post:
       operationId: IamBackoffice_DisableUserMfa
@@ -124,7 +127,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/EnableUserMfa:
     post:
       operationId: IamBackoffice_EnableUserMfa
@@ -151,7 +155,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/GenerateSecretForQR:
     post:
       operationId: IamBackoffice_GenerateSecretForQR
@@ -179,7 +184,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/GetUser:
     post:
       operationId: IamBackoffice_GetUser
@@ -207,7 +213,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/Login:
     post:
       operationId: IamBackoffice_Login
@@ -235,7 +242,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/LoginMfa:
     post:
       operationId: IamBackoffice_LoginMfa
@@ -263,7 +271,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/Logout:
     post:
       operationId: IamBackoffice_Logout
@@ -290,7 +299,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/Register:
     post:
       operationId: IamBackoffice_Register
@@ -318,7 +328,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/SearchGroups:
     post:
       operationId: IamBackoffice_SearchGroups
@@ -345,7 +356,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
   /iambackoffice.IamBackoffice/UnassignRoles:
     post:
       operationId: IamBackoffice_UnassignRoles
@@ -372,7 +384,8 @@ paths:
       - IamBackoffice
       x-codegen-request-body-name: body
       x-content-type: application/json
-      x-accepts: application/json
+      x-accepts:
+      - application/json
 components:
   schemas:
     SearchGroupsRequestFilters:
@@ -1223,6 +1236,12 @@ components:
           type: string
       type: object
     rpcStatus:
+      example:
+        code: 0
+        details:
+        - '@type': '@type'
+        - '@type': '@type'
+        message: message
       properties:
         code:
           format: int32

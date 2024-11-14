@@ -8,8 +8,8 @@ Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **tenantId**| **String** |   | [optional]
 **data**| **Map<String, String>** |   | [optional] [default to new HashMap<>()]
-**preferredLanguages**| **List<String>** |   | [optional]
-**roles**| **List<String>** |   | [optional]
+**preferredLanguages**| **List<String>** |   | [optional] [default to new ArrayList<>()]
+**roles**| **List<String>** |   | [optional] [default to new ArrayList<>()]
 **timezone**| **String** |   | [optional]
 
 

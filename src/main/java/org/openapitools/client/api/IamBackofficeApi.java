@@ -13,14 +13,14 @@
 
 package org.openapitools.client.api;
 
-import GeminiCommerce_Iambackoffice.ApiCallback;
-import GeminiCommerce_Iambackoffice.ApiClient;
-import GeminiCommerce_Iambackoffice.ApiException;
-import GeminiCommerce_Iambackoffice.ApiResponse;
-import GeminiCommerce_Iambackoffice.Configuration;
-import GeminiCommerce_Iambackoffice.Pair;
-import GeminiCommerce_Iambackoffice.ProgressRequestBody;
-import GeminiCommerce_Iambackoffice.ProgressResponseBody;
+import GeminiCommerce.Iambackoffice.ApiCallback;
+import GeminiCommerce.Iambackoffice.ApiClient;
+import GeminiCommerce.Iambackoffice.ApiException;
+import GeminiCommerce.Iambackoffice.ApiResponse;
+import GeminiCommerce.Iambackoffice.Configuration;
+import GeminiCommerce.Iambackoffice.Pair;
+import GeminiCommerce.Iambackoffice.ProgressRequestBody;
+import GeminiCommerce.Iambackoffice.ProgressResponseBody;
 
 import com.google.gson.reflect.TypeToken;
 

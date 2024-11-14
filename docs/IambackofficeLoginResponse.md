@@ -8,7 +8,7 @@ Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **tokens**| [**ProtobufAny**](ProtobufAny.md) |   | [optional]
 **user**| [**IambackofficeUser**](IambackofficeUser.md) |   | [optional]
-**methods**| [**List<IambackofficeTwoFactorMethod>**](IambackofficeTwoFactorMethod.md) |   | [optional]
+**methods**| [**List<IambackofficeTwoFactorMethod>**](IambackofficeTwoFactorMethod.md) |   | [optional] [default to new ArrayList<>()]
 **twoFactorId**| **String** |   | [optional]
 **tenantId**| **String** |   | [optional]
 
