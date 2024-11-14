@@ -50,7 +50,7 @@ import GeminiCommerce.Iambackoffice.JSON;
 /**
  * IambackofficeRegistrationRequest
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-14T11:31:25.663742959Z[Etc/UTC]", comments = "Generator version: 7.9.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-14T11:39:15.931968159Z[Etc/UTC]", comments = "Generator version: 7.9.0")
 public class IambackofficeRegistrationRequest {
   public static final String SERIALIZED_NAME_REGISTRATION = "registration";
   @SerializedName(SERIALIZED_NAME_REGISTRATION)
