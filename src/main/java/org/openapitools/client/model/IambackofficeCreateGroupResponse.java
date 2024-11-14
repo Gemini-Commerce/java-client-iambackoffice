@@ -49,7 +49,7 @@ import GeminiCommerce.Iambackoffice.JSON;
 /**
  * IambackofficeCreateGroupResponse
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-14T11:39:15.931968159Z[Etc/UTC]", comments = "Generator version: 7.9.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-14T11:41:08.552942201Z[Etc/UTC]", comments = "Generator version: 7.9.0")
 public class IambackofficeCreateGroupResponse {
   public static final String SERIALIZED_NAME_GROUP = "group";
   @SerializedName(SERIALIZED_NAME_GROUP)
