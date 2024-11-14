@@ -51,7 +51,7 @@ import GeminiCommerce.Iambackoffice.JSON;
 /**
  * IambackofficeRegistrationResponse
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-14T11:22:55.422856667Z[Etc/UTC]", comments = "Generator version: 7.9.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-14T11:25:27.474554963Z[Etc/UTC]", comments = "Generator version: 7.9.0")
 public class IambackofficeRegistrationResponse {
   public static final String SERIALIZED_NAME_TOKENS = "tokens";
   @SerializedName(SERIALIZED_NAME_TOKENS)
