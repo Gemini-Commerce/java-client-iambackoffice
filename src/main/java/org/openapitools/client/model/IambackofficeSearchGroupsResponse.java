@@ -51,7 +51,7 @@ import GeminiCommerce.Iambackoffice.JSON;
 /**
  * IambackofficeSearchGroupsResponse
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-18T09:19:55.828510707Z[Etc/UTC]", comments = "Generator version: 7.9.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-18T09:22:13.587269484Z[Etc/UTC]", comments = "Generator version: 7.9.0")
 public class IambackofficeSearchGroupsResponse {
   public static final String SERIALIZED_NAME_GROUPS = "groups";
   @SerializedName(SERIALIZED_NAME_GROUPS)
