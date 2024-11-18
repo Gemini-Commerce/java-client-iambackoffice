@@ -50,7 +50,7 @@ import GeminiCommerce.Iambackoffice.JSON;
 /**
  * IambackofficeAssignRolesRequest
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-18T11:09:42.485494943Z[Etc/UTC]", comments = "Generator version: 7.9.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-18T16:33:45.290484231Z[Etc/UTC]", comments = "Generator version: 7.9.0")
 public class IambackofficeAssignRolesRequest {
   public static final String SERIALIZED_NAME_LOGIN_ID = "loginId";
   @SerializedName(SERIALIZED_NAME_LOGIN_ID)
