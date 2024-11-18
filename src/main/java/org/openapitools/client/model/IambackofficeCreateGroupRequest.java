@@ -50,7 +50,7 @@ import GeminiCommerce.Iambackoffice.JSON;
 /**
  * IambackofficeCreateGroupRequest
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-18T09:58:12.540655215Z[Etc/UTC]", comments = "Generator version: 7.9.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-11-18T11:09:42.485494943Z[Etc/UTC]", comments = "Generator version: 7.9.0")
 public class IambackofficeCreateGroupRequest {
   public static final String SERIALIZED_NAME_TENANT_ID = "tenantId";
   @SerializedName(SERIALIZED_NAME_TENANT_ID)
